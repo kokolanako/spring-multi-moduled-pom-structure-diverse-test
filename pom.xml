@@ -34,7 +34,7 @@
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
 
         <sb-actuator.version>2.2.1.RELEASE</sb-actuator.version>
-        <sb-starter-web.version>2.2.1.RELEASE</sb-starter-web.version>
+        <sb-starter-web.version>2.5.12</sb-starter-web.version>
         <sb-starter>2.2.1.RELEASE</sb-starter>
         <sb-starter-test>2.2.1.RELEASE</sb-starter-test>
         <spring.version>2.2.1.RELEASE</spring.version>
